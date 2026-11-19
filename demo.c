@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main() {
-    printf("Hola, hoy es jueves");
+    printf("Hola Dennis, esta es tu primera actividad");
     return 0;
 }
